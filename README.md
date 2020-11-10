@@ -20,7 +20,7 @@
 `npm i -S express`
 
 ### babel
-`npm i -D babel-preset-es2015 babel-preset-stage-0 babel-cli`
+`npm i -D babel-cli`
 
 ### etc
 `npm i -D nodemon concurrently`
