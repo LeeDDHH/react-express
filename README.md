@@ -1,4 +1,13 @@
 # 環境構築
+ライブラリバージョン
+- React
+  - 17.0.1
+- webpack
+  - 5.4.0
+- babel-cli
+  - 6.26.0
+- express
+  - 4.17.1
 
 ## Client
 
