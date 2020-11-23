@@ -1,6 +1,11 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
+fetch('/api/').then(response => {
+  console.log('this');
+  console.log(response.json());
+})
+
 const App = () => {
   return <div>hello world</div>;
 }
