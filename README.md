@@ -33,3 +33,8 @@
 
 ### etc
 `npm i -D nodemon concurrently`
+
+
+## etc
+### for dev webpack setting
+`npm i -D webpack-merge`
