@@ -12,9 +12,6 @@ module.exports = {
     path: path.resolve('dist'),
     filename: '[name].js'
   },
-  devServer: {
-    open: true
-  },
   module: {
     rules: [
       {

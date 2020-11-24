@@ -6,8 +6,7 @@ const app = express();
 app.use(express.static(path.resolve('dist')));
 
 app.get('/api', (req, res) => {
-  console.log({ "api": 'test' });
-  res.send({ "api": 'test' })
+  res.send({ api: 'test' })
 });
 
 app.get('*', (req, res) => {
