@@ -35,6 +35,15 @@
 `npm i -D nodemon concurrently`
 
 
-## etc
+## Environment
 ### for dev webpack setting
 `npm i -D webpack-merge`
+
+### babel
+`npm i -D babel-eslint`
+
+### eslint
+`npm i -D eslint eslint-plugin-react`
+
+### precommit(commit前にlintを実行する)
+`npm i -D husky lint-staged prettier`
